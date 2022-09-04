@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://mykhailotsynkevych.github.io/404-brain-not-found",
+  "homepage": "https://AleksandrStarkov.github.io/404BrainNotFound",
   "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /404-brain-not-found/"
+    "build": "parcel build src/*.html --public-url /404BrainNotFound/"
   },
   "repository": {
     "type": "git",
